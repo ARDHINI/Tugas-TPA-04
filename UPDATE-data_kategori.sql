@@ -1,0 +1,1 @@
+UPDATE kategori SET  nama_kategori ='coklat' WHERE id_kategori='2';

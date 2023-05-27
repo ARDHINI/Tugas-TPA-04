@@ -1,0 +1,1 @@
+UPDATE pelanggan SET  nohp ='087888556235' WHERE id_pelanggan='1';

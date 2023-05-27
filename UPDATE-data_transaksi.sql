@@ -1,0 +1,1 @@
+UPDATE transaksi SET id_produk='3' WHERE id_transaksi='20';

@@ -1,0 +1,1 @@
+UPDATE produk SET harga='50000' WHERE id_produk='7';
